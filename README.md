@@ -1,1 +1,1 @@
-# Mini-Dctionary
+# Mini-Dictionary
